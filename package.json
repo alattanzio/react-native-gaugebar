@@ -1,6 +1,6 @@
 {
   "name": "react-native-gaugebar",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "file: ![alt-text](https://raw.githubusercontent.com/alattanzio/react-native-gaugebar/master/preview.gif)",
   "main": "index.js",
   "scripts": {
