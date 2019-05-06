@@ -1,8 +1,7 @@
-
 {
   "name": "react-native-gaugebar",
-  "version": "1.0.4",
-  "description": "",
+  "version": "1.0.5",
+  "description": "file: ![alt-text](https://raw.githubusercontent.com/alattanzio/react-native-gaugebar/master/preview.gif)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +9,20 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Antonio Lattanzio",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-progress": "^3.6.0"
-  }
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alattanzio/react-native-gaugebar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alattanzio/react-native-gaugebar/issues"
+  },
+  "homepage": "https://github.com/alattanzio/react-native-gaugebar#readme"
 }
