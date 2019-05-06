@@ -17,7 +17,7 @@ renderGauge() {
       title="Speed"
       sub_title="km/h"
     />
-	)
+  )
 }
 
 ```
