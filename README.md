@@ -1,7 +1,7 @@
 
 # react-native-gaugebar
 
-file: ![alt-text](https://github.com/alattanzio/react-native-gaugebar/blob/master/preview.gif)
+file: ![alt-text](https://raw.githubusercontent.com/alattanzio/react-native-gaugebar/master/preview.gif)
 
 ## Getting started
 
