@@ -1,7 +1,7 @@
 
 # react-native-gaugebar
 
-![alt-text](https://badge.fury.io/js/react-native-gaugebar.svg)
+[![npm version](https://badge.fury.io/js/react-native-gaugebar.png)](https://badge.fury.io/js/react-native-gaugebar)
 
 ![alt-text](https://raw.githubusercontent.com/alattanzio/react-native-gaugebar/master/preview.gif)
 
