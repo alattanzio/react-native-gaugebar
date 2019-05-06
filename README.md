@@ -1,7 +1,9 @@
 
 # react-native-gaugebar
 
-file: ![alt-text](https://raw.githubusercontent.com/alattanzio/react-native-gaugebar/master/preview.gif)
+![alt-text](https://badge.fury.io/js/react-native-gaugebar.svg)
+
+![alt-text](https://raw.githubusercontent.com/alattanzio/react-native-gaugebar/master/preview.gif)
 
 ## Getting started
 
