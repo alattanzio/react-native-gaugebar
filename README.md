@@ -9,6 +9,8 @@
 
 `$ npm install react-native-gaugebar --save`
 
+## Expo Snack
+https://snack.expo.io/@alattanzio/gaugebar-2
 
 ## Usage
 ```javascript
